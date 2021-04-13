@@ -54,6 +54,11 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "quote": "Love, Life, Peace & Coding",
+      "author": "Ian Davies",
+      "id": 12
     }
   ],
   "likes": [
@@ -66,6 +71,71 @@
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1618327745805,
+      "id": 3
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1618327747200,
+      "id": 4
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1618327752157,
+      "id": 5
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1618327754527,
+      "id": 6
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1618327754962,
+      "id": 7
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1618332891401,
+      "id": 8
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1618332891776,
+      "id": 9
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1618332891963,
+      "id": 10
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1618332892135,
+      "id": 11
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1618345302403,
+      "id": 12
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1618345304037,
+      "id": 13
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1618345309482,
+      "id": 14
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1618345310262,
+      "id": 15
     }
   ]
 }
